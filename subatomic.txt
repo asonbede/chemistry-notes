@@ -127,6 +127,40 @@ Atomic mass= (%)(mass1) +   (%)(mass2) +(%)(mass3)
 Atomic mass= (0.20)(10)+ (0.80)(11)=10.8 amu
  
 
+Pre-Dalton idea of atom.
+Long before Dalton stated his atomic theory, the Greek Philosopher Democritus and his teacher Leucipus had already
+arrived at the conclusion that matter is composed of atoms which are indivisible. They even stated that the way these 
+atoms arrange and re-arrange themselves was responsible for the different kinds of matter present. Then why is credit 
+for the atomic theory given to Dalton instead of them? The answer is that they relied on logical thinking instead of
+observation and experimentation to arrive at their findings. Dalton had experimental data to support his claims. Dalton 
+used data from his own experiments and those of other scientist like Antonio Lavioser who discovered the law of conservaton
+of mass and Joseph Proust who discovered the law of definite proportions to obtain his theory.
+
+Summary
+Tiny particles called atom make up matter.
+The way  atoms arrange and re-arrange themselves during chemical
+ change is responsible for the different kinds of matter around us.
+ 
+ Different atoms combine to form matter in a constant and predictable proportions.
+ Atoms are indivisible. 
+ Different atoms exist but in a particular element the atoms are identical- This is Dalton's Atomic theory.
+ But it is now known that atoms of the same element are not identical. 
+ They can vary in their number of neutrons-a phenomenon called isotopy.
+ It is also now known that atom contains subatomic particles: protons, neutrons and electrons- 
+ atoms are therefore  
+ divisible. The atom  contains mostly an empty with a central nucleus which contain the protons and the 
+ neutrons while the electrons are located in the orbitals outside the nucleus.
+ The number of protons in the nucleus of an atom is defined as the atomic number(Z) of the atom.
+ The sum of the number of protons plus the number of neutrons is the mass number(A) of the atom.
+ In a an uncharged atom the number of protons is equal to the number of electron.
+ An ion is an atom that has lost or gained electron.
+ The atomic mass of an element is the weighted average of the masses of its  isotopes.
+ The idea that matter is composed of atoms had  been conceived long before Dalton by Democritus but unlike 
+ Dalton Democritus had no experimental data to support his claims.
+ 
+
+
+
 
 
  
