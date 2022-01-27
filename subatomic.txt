@@ -1,0 +1,57 @@
+Atoms and subatomic particles
+
+In the previous lesson Chemistry was defined as science which studies matter 
+- its composition, properties, and interactions with other matter as well as with energy.
+Matter is anything that has mass and occupies space. 
+Since Chemistry studies matter,
+a clear understanding of the composition of matter is therefore necessary. 
+Dalton's atomic theory does not only reveal
+the composition of matter, it also explains what happen when matter undergoes chemical changes.
+Dalton's atomic theory relates the events of chemical change to the properties, structure and behavior of atoms.
+
+For chemical change - a change during which new substance is formed - to occur, matter must interact with other matter 
+or with energy. For instance, Sodium metal, a matter, can interact with water another matter to produce Sodium hydroxide
+Cooking gas, propane can interact with heat, an energy to produce carbon dioxide and water. Hydrogen can react with 
+oxygen to produce water. Matter can also undergo a change without producing a new substance. This is called a physical
+change.  For instance, water can change state from solid(ice) to liquid and then to gas. In this case, no new substance
+is formed.
+
+Dalton's Atomic theory
+1. Matter is composed of tiny particles called atoms.
+2. Atoms are indivisible and indestructible.
+3. Atoms of a particular element are identical.
+4. Atoms of different elements are different.
+5. Compounds are formed when different atoms combine with one another, and for any particular compound, no matter the source,
+its constituent atoms constant and  will always occur in constant ratio.
+6. During the formation of compounds atoms are neither created nor destroyed but simply re-arrange themselves. 
+
+Modification of Dalton's Atomic Theory.
+The findings of other researchers after John Dalton, especially those of J.J. Thomson and Ernest Rutherford
+ have shown that Dalton's Atomic Theory is not completely correct. Dalton understood what matter contains and what happens
+ when matter interacts with one another but did not completely understand what the atoms themselves contain.
+ It is still true that matter is composed of atoms. It true that during most non-nuclear reactions atoms are neither 
+ created nor destroyed but merely re-arrange themselves to form new compounds. It is still true that different atoms
+ exist. It it true that atoms of the same element are similar in many ways, for instance they are have the same number of 
+ protons , and therefore the same atomic number  but it is not true that atoms of the same element are identical. 
+ Atoms of the same elements can show variation 
+ in their number of neutrons -  a phenomenon called isotopy. Isotopes are atoms of the same element with the same
+ number of protons but different number of neutrons. For example, all Carbon atoms have six protons in their nucleus,
+ but majority of the carbon atoms have 6 neutrons in their nucleus - Carbon-12, while some of the carbon atoms have 8 
+ neutrons - Carbon-14  in their nucleus.
+
+ It is not also true that atoms are indivisible. Dalton'S model of atom as a solid mass is not correct. 
+ The divisibility of matter can go beyond the atom to subatomic particles. Atoms is made of of mostly empty space 
+ with a central nucleus which contains the positively charged protons and the non-charged neutrons with peripherally
+ located negative  electrons.  
+
+
+ Subatomic Particles
+ Show table of the sub atomic particles
+ The type of subatomic particle, their location in the atom, as well as their charges and mass is shown in the 
+ table above.
+
+ 
+
+
+
+
