@@ -49,9 +49,20 @@ The findings of other researchers after John Dalton, especially those of J.J. Th
  Show table of the sub atomic particles
  The type of subatomic particle, their location in the atom, as well as their charges and mass is shown in the 
  table above.
+  protons
+  protons are located in the nucleus of the atom. It has a mass of about 1.67 * 10-24 grams. 
+  This mass is equal to one atomic mass unit(amu). It is also equal to the mass of one neutron. One atomic mass unit is also equal to the  1/12 the mass of one 
+  atom of carbon-12. This atom has 6 protons and 6 neutrons. Protons contribute significantly to the mass of the atom
+  Protons have a charge of +1. All atoms of a given element have the same number of protons in their nucleus which will 
+  different from the number of protons in the atoms of another element. For example, all atoms of hydrogen have 
+  one proton in their nucleus, all atoms of Helium has two protons in their nucleus, no other element other than Helium
+  will have atoms with two protons in their nucleus and no other element other than hydrogen will have atoms with 1 proton
+  in their nucleus. You get the idea, hopefully. therefore elements derive their identity from the atomic number.
+  will have aton 
+ 
+  number is defined as the number of protons in the nucleus of an atom.  
 
  
-
 
 
 
