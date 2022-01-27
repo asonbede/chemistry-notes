@@ -46,21 +46,88 @@ The findings of other researchers after John Dalton, especially those of J.J. Th
 
 
  Subatomic Particles
- Show table of the sub atomic particles
- The type of subatomic particle, their location in the atom, as well as their charges and mass is shown in the 
+ //Show table of the sub atomic particles
+ The  type of subatomic particle, their location in the atom, as well as their charges and mass is shown in the 
  table above.
   protons
   protons are located in the nucleus of the atom. It has a mass of about 1.67 * 10-24 grams. 
   This mass is equal to one atomic mass unit(amu). It is also equal to the mass of one neutron. One atomic mass unit is also equal to the  1/12 the mass of one 
-  atom of carbon-12. This atom has 6 protons and 6 neutrons. Protons contribute significantly to the mass of the atom
+  atom of carbon-12. This atom has 6 protons and 6 neutrons. Protons contribute significantly to the mass of the atom.
   Protons have a charge of +1. All atoms of a given element have the same number of protons in their nucleus which will 
   different from the number of protons in the atoms of another element. For example, all atoms of hydrogen have 
   one proton in their nucleus, all atoms of Helium has two protons in their nucleus, no other element other than Helium
   will have atoms with two protons in their nucleus and no other element other than hydrogen will have atoms with 1 proton
-  in their nucleus. You get the idea, hopefully. therefore elements derive their identity from the atomic number.
-  will have aton 
+  in their nucleus. You get the idea, hopefully. Therefore elements derive their identity from the number of protons in their nucleus.
+ The  number of protons in the nucleus of an atom is defined as the atomic number of the atom.
+
+The Neutrons.
+LIKE The protons, the neutrons are located in the nucleus of the atom.
+They have approximately the same mass as protons but no charge.
+Atoms of the same element can have different number of neutrons.
+but must have the same number of protons.
+The the sum of the number of protons and neutrons in the nucleus of and atom is called the mass number of the atom.
+
+The electrons.
+The electrons are located in the orbitals outside the nucleus.They have a mass of 1/1800 amu and a charge of -1.
+In a neutral atom, The number of electrons in the orbitals is equal to the number of protons in the nucleus. An atom
+can gain or lose electron. When this occurs, the atom becomes an ion. Ions are charged atoms. positively charged ions 
+are called cations while negatively charged ions are called anions.
+
+How atoms are represented
+Atoms are represented in a shorthand format which makes it easy to see the subatomic particles present.
+Atoms can be represented in three ways:
+1. A/Z Format.
+2. Symbol-mass format.
+3. Name-mass format.
+
+1.   A/Z Format.
+In this format, the symbol of the element is written and then the Atomic number(Z) and the mass number(A)
+are together written to the left of it. The value of "Z" is written as a subscript while that of "A" is written
+as a superscript.
+Using this symbol, we can represent the three Isotopes of hydrogen- Hydrogen, Deuterium and Tritium as:
+11H, 21H, 31H. 
+Chromium atom can be represented as 52,24Cr
+
+2. Name-mass format.
+In this format, the full name of the atom is written first, followed by a hyphen, 
+followed by the mass number of the atom.
+Using this format, the isotopes of carbon can be represented as follows.
+Carbon-12, Carbon-14,  
+
+3. Symbol-mass format.
+The atomic symbol is written first followed by a hyphen then followed by the mass number.
+Like the Name-mass format, the atomic number is also excluded.
+example.
+C-12, Cr-52
+
+How to calculate the atomic mass.
+The atomic mass of an element is the weighted average mass of all the naturally occurring isotopes present
+in the sample of the element.
+To calculate the atomic mass of an element, you have to remember that atoms of the same 
+element may not identical. They can have different masses and these masses may be abundant in different percentages.
+Procedure:
+1. Identify the naturally occurring isotopes of the element given in the question.
+2. Identify the masses of those isotopes, label them mass1, mass2 etc
+3. Identify the relative abundance of those masses. % of mass1, % of mass2 etc
+
+Use the formula:
+Atomic mass= (%)(mass1) +   (%)(mass2) +(%)(mass3)  
+Example
+Boron has two naturally occurring isotopes.
+In a sample of Boron, 20 % of the atoms are B-10, which is an isotope of boron with 5 neutrons and mass of 10 amu.
+The other 80% of the atoms are B-11, which is an isotope of boron with 6 neutrons and mass of 11 amu.
+ What is the atomic mass of boron.
+ Solution
+ 1. The naturally occurring isotopes of boron given in the question are B-10  And B-11.
+ 2. B-10 has a mass of 10 amu while B-11 has a mass of 11 amu.
+ 3. majority of boron(80%) atoms are B-11, while 20% are B-10 
+ 4. Even without doing any calculation, is clear the atomic mass of boron will be closer to 11 than to 10 
+5. use the formula:
+Atomic mass= (%)(mass1) +   (%)(mass2) +(%)(mass3)  
+Atomic mass= (0.20)(10)+ (0.80)(11)=10.8 amu
  
-  number is defined as the number of protons in the nucleus of an atom.  
+
+
 
  
 
