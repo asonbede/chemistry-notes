@@ -1,5 +1,19 @@
 Atoms and subatomic particles
 
+Instructional Objectives
+At the end of this lesson the student should be able to:
+1. State the definition of matter.
+2. State two kinds of changes that matter can undergo
+3. State the Dalton's Atomic theory
+4. State the parts of Dalton's atomic theory that requires amendments.
+5. List the subatomic particles
+6. Compare the subatomic particles using their mass, charge, location within the atom as basis.
+7. Calculate the mass number of an atom given the number of protons and number of neutrons.
+8. Calculate the atomic mass of an element given the element's isotopic's masses and their relative abundance.
+9. explain why credit for the atomic theory is given to John Dalton even though the idea of
+ matter being made of atoms was
+first conceived by Democritus.
+
 In the previous lesson Chemistry was defined as science which studies matter 
 - its composition, properties, and interactions with other matter as well as with energy.
 Matter is anything that has mass and occupies space. 
@@ -160,10 +174,20 @@ The way  atoms arrange and re-arrange themselves during chemical
  
 
 
+Review questions
+1. Bromine atom, a halogen, has an atomic symbol of Br. It has 35 electrons, 35 protons and 45 neutrons.
+Which of the following options correctly represent this description of bromine in A/Z format.
+A.  45,35 Br b  80,45 Br c  35, 45Br d 4545Br e none of the above
+
+2. 1. Mercury, a transition metal , has an atomic symbol of Hg. It has 80 electrons, 80 protons and 121 neutrons.
+Which of the following options correctly represent this description of Mercury in A/Z format.
+A.  Hg-201 b  Mercury-201 c  201,80 d 80,80Hg e  160,80Hg
 
 
+ 3. Which element  has 19 protons. (You may need to consult the periodic table) 
 
- 
+ 4.  36,17Cl, 58,26 Fe, and C-14 respectively have how many number of neutrons
+ A 
 
 
 

@@ -1,0 +1,67 @@
+How the Subatomic particles and their location in the atom was discovered
+Dalton's atomic model which presented the atom as a solid  indivisible mass
+ was replaced by by J.J. Thomson's plum pudding model following the discovery of electron.
+ According to the plum pudding model, the positively charged proton were uniformly distributed 
+ in the atom. The negatively charged  electrons were randomly imbedded in this bed of positive
+ protons. The electrons were like the fruit in plum pudding while the protons were like the batter.
+
+ The experiment that led to the discovery of electrons.
+ J.J. Thomson discovered the electrons in an experiment he conducted using cathode ray tube.
+The cathode is a small glass tube. One end of the tube contained two charged metal plates: 
+negatively charged cathode
+and the positively charged anode. The cathode and the another were separated by a short distance
+and a hole was drilled in the anode through which the cathode rays which originates from the
+cathode will pass. The other end of the tube was painted with a substance called "phosphor" which 
+glows when hit by charged particles. This makes it possible to see the point at which the cathode
+rays strikes the screen. The cathode ray tube was then placed between two oppositely 
+charged metal plates.
+Thomson then observed that the cathode rays originating from the cathode were bent upwards
+towards the positive metal plate and away from the  negative metal plate suggesting that they 
+were negatively charged. No matter which element that served as the cathode, Thomson observed that
+the same negative particles with the same properties such as charge and mass were produced, suggesting
+that all atoms possessed the same type of cathode rays. 
+In addition to discovering the electrons, Thomson also measured their charge to mass ratio.
+He further proposed that since the atom was electrically neutral and also contains electrons, then
+the atoms must also contain components  that are positively charged. It was this positively
+charged components that cancels the charge on the electrons making the atom electrically neutral. 
+Using Thomson'S data and the charge of the electron which he measured with in the oil drop experiment,
+Robert Milikan  calculated the mass of the electron. The mass of the electron is 1.98 * 10-28,about 
+1/1800 amu. or about 2000 times less than the mass of protons and neutrons.
+The positive components which Thomson hinted at was latter isolated by James Chadwick.
+
+discovery of the atomic nucleus
+experiment by Rutherford later showed that jj Thomson's plum pudding model
+of the atom was not completely correct.
+Yes it is true that the atom is divisible and contains smaller
+particles as Thomson had proposed but the electrons are not floating on a bed of positive charges.
+Instead the positive charge is located in the central part of the atom, a very small dense mass
+called nucleus. The electrons are located outside the nucleus and circle around the nucleus the way 
+planets rotate around the sun.
+This model of atom with a central nucleus surrounded by orbiting
+ electrons is called the Rutherford'S OR planetary or 
+Nuclear model of the atom.
+
+Rutherford's Gold Foil experiment.
+Ernest Rutherford discovered the atomic nucleus by firing alpha particles at very thin piece of 
+gold foil. Alpha particles are positively charged particles 
+identical to the nucleus of helium-4 atom. Alpha particles consists  of two protons and two neutrons 
+bound together in the nucleus giving them  a mass of about 4 amu. The gold atom has a mass of has 79 protons and
+about 197 amu. If the protons in the gold atom were evenly distributed in the atom the
+way J.J. Thomson HAD proposed, the alpha particles will encounter little or resistance and all 
+and all of them should go straight through without any change in direction. After all, the mass
+ of a proton is about 1 amu while that of an alpha particle is about 4 amu. This is nearly what
+happened. Ernest Rutherford observed that most alpha particles shot at the gold foil went
+straight through without any change in direction. In addition, he also observed that few of the 
+them bent away from the gold foil while even fewer bounced backed in the opposite direction.
+From his observations, Rutherford argued that the alpha particles that bounced backed must have
+encountered a mass that is heavier than not only the protons but also the alpha particles. The 
+alpha particles that were deflected at a slight angle must have also come closer to this mass
+but was not not attracted to it but was repelled by it. Since opposite charges attract while like 
+charges repel Rutherford reasoned that this "heavy mass" must  be of  the same charge as the alpha particles.
+Rutherford CALLED THIS heavy mass nucleus and then proposed a model of atom in which the
+the atom contains mostly of 
+empty space(to account for majority of the alpha particles that went straight through) and 
+ has a positively charge central nucleus while the electrons circled around nucleus 
+the way planets circled around the sun.
+
+
