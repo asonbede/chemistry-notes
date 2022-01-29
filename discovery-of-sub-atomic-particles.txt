@@ -64,4 +64,20 @@ empty space(to account for majority of the alpha particles that went straight th
  has a positively charge central nucleus while the electrons circled around nucleus 
 the way planets circled around the sun.
 
+The deflects of the Rutherford's planetary model of the atom.
+
+Rutherford's idea of a cental atomic nucleus was strongly accepted and still holds but 
+his proposal about the position of the electrons was not accepted.  Rutherford'S planetary electrons
+did not behave like a classical charged particle in circular motion. It was already known that 
+when a charged particle such as an electron moves in a circular path, it gives off some form of light
+and lose energy collapsing in the process bUT tHE electrons in the atom does not collapse.
+Secondly Rutherford's model was unable to explain the emission spectrum of the atom.
+
+Emission spectrum
+The  emission spectrum is the unique pattern of light given off by an element when it is
+given energy in form of heat or electricity. The emission spectrum is unique to each element and 
+therefore can be used to identify it. Rutherford'S model WAS unable TO explain THIS PHEnomenon.
+
+
+
 
