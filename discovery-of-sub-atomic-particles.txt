@@ -78,6 +78,20 @@ The  emission spectrum is the unique pattern of light given off by an element wh
 given energy in form of heat or electricity. The emission spectrum is unique to each element and 
 therefore can be used to identify it. Rutherford'S model WAS unable TO explain THIS PHEnomenon.
 
+Niel Bohr's Model.
+The Quantum Model of atom proposed by Niel Bohr was aimed at addressing the defects in the 
+Rutherford's Model. According to this model, electrons in the atom did not move in a planetary fashion
+around the nucleus but instead moved between energy levels. So outside the nucleus, energy levels
+exist and the electrons must be in one of those energy levels and not in-between.
+ The electrons must possess a specific amount of energy to be in a particle energy level, hence
+ the energy levels and the energy of the electron quantized. The lowest energy level is the ground state. Higher energy
+ levels are the excited state. Since the electron can not be found everywhere outside the nucleus
+ but only in specific energy level this probably explains why they did not collapse
+ into the nucleus. The spectra of atoms is produced by atoms electrons gaining energy
+ from some source, jumping up a Higher energy level, then immediately dropping back to a lower
+ level and emitting the energy difference between the two energy levels. 
+ Each element has a unique set of these energy levels and hence a unique spectrum.
+
 
 
 
