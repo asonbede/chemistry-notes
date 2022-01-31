@@ -1,0 +1,199 @@
+Electronic Configuration
+Electrons in the Bohr's Atomic Model can only be found at specific energy levels and not in-between.
+The main energy levels  are made up of sub-energy levels which are themselves composed of orbitals.
+The electronic Configuration is a description of of an atoms  main energy levels, the sub-energy
+levels, the  orbitals and the 
+number of electrons those orbitals can contain. The number and letter respectively
+ describe the energy levels and sub-levels while the superscript shows how many electrons are in that 
+ orbital.
+ The electronic Configuration of sodium for instance is 1s22s22p63s1.
+ Look at the sodium electronic Configuration again. You will see numbers, letters and then
+ numbers written in superscript. What the heck does those numbers and letters mean?
+  The numbers(not the ones in superscript) represent the principal quantum numbers(n) or the 
+  main energy levels. Electrons begin to occupy energy level starting from the ones with the 
+  lest energy, that is, the energy level closest to the nucleus. This energy level with the 
+  lest energy is also called the ground state. Each energy level has the maximum number of 
+  electrons it can hold. Using the formula 2n2, you  can calculate this maximum. When n = 1,
+  the maximum is 2 electrons, When n = 2, the maximum = 8 electrons, When n= 3 what will be
+  the maximum? 18 of course. The value of  the principal quantum number can be any integer 
+  that is greater than or equal to one. Sodium has atomic number of 11, it therefore has 11 
+  protons in its nucleus and 11 electrons outside the nucleus in its neutral state.
+   Two of this electrons will move
+  into the first energy. This is the maximum that n=1 can accommodate, eight electrons will then 
+  occupy n= 2, this is the maximum for n=2, so the remaining one electron of sodium will move 
+  into n= 3 which has the capacity to accommodate 18 electrons but
+   unfortunately sodium has ran out
+  of electrons. Each  energy level does not only have the maximum number of electrons 
+  it can contain, it is also divisible into sub-energy levels. Think of the energy levels 
+  as a building and the sub-energy levels as the rooms inside the building.
+   The possible sub energy level associated with each energy level is given by 
+   the relation 0 to n-1, 
+  when = 1  , this relation evaluates to 0, only one sub-shell is possible, when n= 2 , 
+  the relation evaluates
+  to 0,1 , two sub-shells are possible, when n=3, 0,1,2 three sub shell are possible. 
+  Those numbers
+  describing the sub-shells are called the Azimuthal quantum number or the angular
+  momentum quantum number(l). l=0 is known as the "S" sub shell, l=1 is the p subshell,
+   l= 2 is the 
+  d subshell l=3 f subshell. The subshells S, p, d, f are also divisible into compartments
+  called orbitals. Given a subshell, the number of orbitals possible is given by the relation 
+  -l to +l , where l is equal to the Azimuthal quantum number. When l = 0, only one orbital is
+  possible. When l=1 ,  3 orbitals are possible -1,0, +1, when l is 2,  5 orbitals are 
+  possible -2, -1, 0, 1,2 , and when l=3 how many orbitals are possible? You have already 
+  thought of the main shell as a building and the subshells  as the room or rooms insides the 
+  the building now think of the orbitals as compartments inside a room.
+   Each orbital can hold a maximum of two electrons.
+  Therefore, the S subshell with one possible orbital can hold a maximum of 2 electrons.
+  The P subshell with a three possible orbitals can hold a maximum of six electrons. The 
+  d subshell with 5 orbitals can hold ten electrons. Those numbers that we derived from the Azimuthal 
+  quantum number which tell us number of orbitals within a subshell is called Magnetic quantum
+  number(mi).
+  Now back to the electronic configuration of sodium: 1s22s22p63s1.
+  The eleven electrons will begin by occupying n= 1, because it is the easiest to occupy
+  since it has the lest energy. n= 1 , has one subshell l=0 which is the S subshell, l=0 has only
+  one orbital ml= 0 , and each orbital can accommodate a maximum of two electrons. The number 
+  in superscript is telling us the number of electrons in that subshell. So 1s2 is the sodium 
+  electron configuration is a shorthand way of saying that the first energy level with its
+  its one subshell and one orbital has been occupied by two electrons. Similarly,
+  2s22p6 is a shorthand way of saying that the second energy level with its its two subshell 
+  has been occupied by eight electrons. Remember n=2 can have l values of 0, l and l= 1 can have 
+  mi values of -1,0,+1 and hence 3 orbitals each of which can hold a maximum of 2 electrons
+   giving
+  maximum  of 6 electrons for the p subshell. The remaining one electron of sodium
+  will enter n= 3 which can actually have 3 sub-shell s, p, d, 
+  and accommodate a maximum of 18 Electrons
+  2 in the s, 6 in p and 10 in d.      Since the "s" subshell is the 
+  lest in energy among those n=3 sub-shells, the electron will enter there and that is how 
+  we arrived at 3s1 in sodium electron configuration.
+  
+  The table that summarizes
+
+  Electron Configuration of the first 30 elements in the periodic table
+  1H: 1s1
+  2H: 1s2
+  3Li: 1s22s1 
+  4Be: 1s22s2
+  5B: 1s22s22p1
+  6C:  1s22s22p2
+  7N : 1s22s22p3
+  8O : 1s22s22p4
+  9F : 1s22s22p5
+  10Ne: 1s22s22p6
+  11Na: 1s22s2sp63s1
+  12Mg: 1s22s22p63s2
+  13Al:1s22s22p63s23p1
+  14Si: 1s22s22p63s23p2
+  15P: 1s22s22p63s23p3
+  16S:   1s22s22p63s23p4
+  17Cl: 1s22s22p63s23p5
+  18A:  1s22s22p63s23p6
+  19K:  1s22s22p63s23p64s1
+  20Ca: 1s22s22p63s23p64s2
+  21Sc:  1s22s22p63s23p64s23d1
+  22Ti:  1s22s22p63s23p64s23d2
+
+
+Wait a minute. The way we filled 19K, 20Ca, 21Sc, 22Ti does it make sense? Is it logical? n= 3 
+can have 3 sub-shells s, p, d. We have only filled 3s and 3p why didn't we fill 3d before going 
+to 4s, after all we had filled out all the possible sub-shells sub-shells for n=2 before going to n= 3.
+It is not logical of course. However, in science observations and experiments are superior to 
+logic. Observations had shown that the 4s subshell or orbital is of lower energy than the 3d orbitals
+or subshell. Energy levels or subshell with lower energy are filled first before those with 
+higher energy. So the 4s is filled before the 3d. So the electrons don't necessarily fill the sub-shells
+in ascending order of n values. Now let us talk about the order in which the electrons fills the
+sub-shells.
+
+The order in which the electrons fill the sub-shells
+is as follows:
+
+1s,2s,2p,3s,3p,4s,3d,4p,5s,4d,5p,6s,4f,5d,6p,7s,5f,6d,7p...
+ This order arranges the energy level and sub energy levels in ascending order of energy.
+ You may memories it but if you are familiar with the periodic table you need not memories it.
+ This order is already in agreement with natural placement of the elements in the periodic table.
+ Take a Look at the periodic table below: 
+
+ The periodic table is divided into blocks. The first two columns make up the s-block.
+ This column contain elements whose outermost shell electrons are in the s subshell,
+ The last six columns make up the p-block, the ten columns of elements between the s-block 
+ and p-block make up d-block. They have their outermost electrons in the 
+ d-subshell , then the bottom fourteen columns make up the f-block.
+ Now if you move across the rows beginning from the top left of the table and then 
+ move across successive rows, you will arrive at the same order of filling orbitals
+ as i listed above.  You  will also see how many electrons fit into each orbital. The animation 
+ should make this even clearer.
+ With that clarification out of the way
+ Let's continue with writing the electronic configuration for the rest of the
+ elements.
+
+
+23V:  1s22s22p63s23p64s23d3
+  24Cr:  1s22s22p63s23p64s23d4
+  25Mn:1s22s22p63s23p64s23d5
+  26Fe:1s22s22p63s23p64s23d6
+    27Co:1s22s22p63s23p64s23d7
+    28Ni:1s22s22p63s23p64s23d8
+      29Cu:1s22s22p63s23p64s23d9
+      30Zn:1s22s22p63s23p64s23d10
+      31Ga:1s22s22p63s23p64s23d104p1
+      32Ge:1s22s22p63s23p64s23d104p2
+       33As:1s22s22p63s23p64s23d104p3
+        34Se:1s22s22p63s23p64s23d104p4
+        35Br:1s22s22p63s23p64s23d104p5
+        36Kr:1s22s22p63s23p64s23d104p6
+        37Rb:1s22s22p63s23p64s23d104p65s1 
+        38Sr:1s22s22p63s23p64s23d104p65s2
+        39Y:1s22s22p63s23p64s23d104p65s24d1
+        40Zr:1s22s22p63s23p64s23d104p65s24d2
+           41Nb:1s22s22p63s23p64s23d104p65s24d3
+            42Mo:1s22s22p63s23p64s23d104p65s24d4
+             43Tc:1s22s22p63s23p64s23d104p65s24d5
+              44Ru:1s22s22p63s23p64s23d104p65s24d6
+               45Rh:1s22s22p63s23p64s23d104p65s24d7
+               46Pd:1s22s22p63s23p64s23d104p65s24d8
+               47Ag:1s22s22p63s23p64s23d104p65s24d9
+                48Cd:1s22s22p63s23p64s23d104p65s24d10
+                 49Cd:1s22s22p63s23p64s23d104p65s24d10
+  Wait a minute again, did you notice how long some of the electron configuration
+  had become? It is becoming inconvenient to write or read them, 
+  especially when n value is relatively large? For instance uranium is
+  ---------
+  The solution to long things is to appreciate them. We have done it before. For instance
+  1 amu, the mass of one proton or one neutron  is about 1.67 *10-24, this is an extremely 
+  number, imagine writing all those zeros one by one. The mass of the electron is even 
+  smaller, so we appreciated them using the scientific notion. Enough of the ranting, how do 
+  we abbreviate electron configuration?
+
+  Abbreviating Electron Configuration
+  step 1 identify the noble gas nearest to the element whose electron configuration
+  you want to write.
+  step 2 put the atomic symbol of the noble in square brackets.
+  step 3 write the electron configuration of the element with the electron configuration
+  of that noble gas excluded
+
+  Examples:
+  write the appreciated electron configuration of 19K,
+  The nearest nobel gas to potassium is argon.
+  The electron configuration of argon and that of potassium are respectively
+18A:  1s22s22p63s23p6
+ 19K: 1s22s22p63s23p64s1
+ notice that they are very similar.  think of the electron configuration of K as a superset
+ of that of argon
+ This similarity hold for other elements as well.
+ The electron configuration of any element will be similar to the electron configuration of 
+ its nearest noble gas.
+ Now if we do this [ 1s22s22p63s23p6]4s1, we have written K's electron configuration but then
+ this is no longer an appreciation. Instead we put just the symbol of argon inside
+ the brackets. You get the idea.
+ So the abbreviated electron configuration of K IS [A]4s1
+ 
+ Okay let us write electron configuration of other elements using this abbreviated form.
+
+
+
+
+
+
+
+
+
+      
