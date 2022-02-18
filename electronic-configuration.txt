@@ -70,7 +70,7 @@ number of electrons those orbitals can contain. The number and letter respective
 
   Electron Configuration of the first 30 elements in the periodic table
   1H: 1s1
-  2H: 1s2
+  2He: 1s2
   3Li: 1s22s1 
   4Be: 1s22s2
   5B: 1s22s22p1
@@ -158,37 +158,75 @@ is as follows:
   especially when n value is relatively large? For instance uranium is
   ---------
   The solution to long things is to appreciate them. We have done it before. For instance
-  1 amu, the mass of one proton or one neutron  is about 1.67 *10-24, this is an extremely 
+  1 amu, the mass of one proton or one neutron  is about 1.67 *10-24, this is an extremely small
   number, imagine writing all those zeros one by one. The mass of the electron is even 
-  smaller, so we appreciated them using the scientific notion. Enough of the ranting, how do 
+  smaller, so we abbreviated them using the scientific notion. Enough of the ranting, how do 
   we abbreviate electron configuration?
 
   Abbreviating Electron Configuration
   step 1 identify the noble gas nearest to the element whose electron configuration
-  you want to write.
+  you want to write. The atomic number of this noble gas must be less than the atomic
+  number of the element whose electron configuration you want to abbreviate.
+
   step 2 put the atomic symbol of the noble in square brackets.
   step 3 write the electron configuration of the element with the electron configuration
   of that noble gas excluded
 
   Examples:
-  write the appreciated electron configuration of 19K,
-  The nearest nobel gas to potassium is argon.
+  Write the appreciated electron configuration of 19K,
+  The nearest nobel gas to potassium whose atomic number is less than that of K is argon.
   The electron configuration of argon and that of potassium are respectively
 18A:  1s22s22p63s23p6
  19K: 1s22s22p63s23p64s1
- notice that they are very similar.  think of the electron configuration of K as a superset
+ notice that they are very similar except for 4s1.  Think of the electron configuration of K as a superset
  of that of argon
  This similarity hold for other elements as well.
  The electron configuration of any element will be similar to the electron configuration of 
- its nearest noble gas.
+ its nearest noble gas with lesser atomic number.
  Now if we do this [ 1s22s22p63s23p6]4s1, we have written K's electron configuration but then
- this is no longer an appreciation. Instead we put just the symbol of argon inside
+ this is no longer an abbreviation. It is even longer than the one we started with.
+  Instead we put just the symbol of argon inside
  the brackets. You get the idea.
- So the abbreviated electron configuration of K IS [A]4s1
- 
+ So the abbreviated electron configuration of K is [A]4s1
+
+ Examples
+ Write the abbreviated electron configuration of 
+  12Mg: 1s22s22p63s2
+  13Al:1s22s22p63s23p1
+  14Si: 1s22s22p63s23p2
+  15P: 1s22s22p63s23p3
+  16S:   1s22s22p63s23p4
+  17Cl: 1s22s22p63s23p5
+
+  1. The nearest noble gas to Mg with lesser atomic number is Ne
+  So the abbreviated atomic number of Mg is:
+  [Ne]3s2,
+  2. For Mg [Ne]3s23p1,
  Okay let us write electron configuration of other elements using this abbreviated form.
 
+ Hund's Rule
+ So far we have seen how electrons occupy orbitals of different energy status. We saw
+ that electrons occupy those energy levels in ascending order of energy, that is orbitals
+ with lesser energy status are filled first with electrons even when they have a bigger n value.
+ But how does electrons occupy orbitals of equal energy also known as degenerate orbitals?
+ This is where Hund's rule comes in.
+ Hund's Rule states that:
+  1. orbitals of equal energy are occupied singly by electrons
+ before doubling can occur.
+ 2. Electrons in a singly occupied orbital must have the same spin.
+ let us illustrate with example.
+ 
 
+ Pauili Exclusion principle
+ No  two electrons in an atom will have all four quantum numbers exactly the same.
+
+ Diamagnetism and paramagnetism
+
+
+ Aubau energy diagram
+
+
+///api/images/profile-image?file=image-February-1,-2022-asonbede@gmail.com-Bede-Asonye-electron-conig.png
 
 
 

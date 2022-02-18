@@ -1,0 +1,165 @@
+The periodic table
+The periodic table is a tabular arrangements of elements. Elements are substances which consists 
+of only one kind of matter or atoms and can not be broken down into simpler units by ordinary chemical
+reaction. About 109 elements are known. 92 of these elements  occur naturally while the
+rest can only be synthesized in the laboratory.Each of these elements has a unique atomic number.
+It does not share these number with any other element. This is the number of protons in
+in the nucleus of the atom. The modern Periodic Law states that
+the properties of the elements are a periodic function of their atomic number.
+ To be a good chemist you have to be familiar with 
+the elements. After all,  it is only when elements are chemically or physically 
+combined together that the matter that
+actually most matters to us such as food, clothing, air, water  materializes. 
+Therefore you should know the elements: their names, symbols, the groups, periods,
+ families and blocks they can be found in the periodic table, their electron configuration and 
+ the compounds they form. I have included app called guess the element game to help you. The app
+ won't turn you to a master of the elements overnight of course. But i believe it will make
+ learning the element more interesting. 
+ How the app works
+ Begin the game by clicking on the start game button. When you take this action, one 
+ of the 109 elements will be picked randomly by the algorithm. A clue about this selected 
+ element will be shown  to you. Then you take the next action by identifying the 
+ element. You can only make a maximum of three attempts at identifying the element.
+If your first action at identifying the element was unsuccessful, the algorithm will
+ continue to give you more hints about the element until you have exhausted all  chances.
+ Okay back to the periodic table.
+
+Groups and periods.
+The periodic table arranges  elements in rows and columns as shown in the table below.
+Table table 1 is the full blown periodic table while Table is a blueprint of the the periodic
+table showing the exact location of the various groups and families found in the 
+periodic table. Take a thorough look at the two tables.
+
+Groups. 
+There are eight vertical columns called the main groups. The groups are numbered from 0 - 7.
+ Elements are placed in groups according to the number of electrons they have in their
+ outermost shell. The outermost shell electrons are called the valence electrons. Look at 
+ group 1 for instance, you will see elements like lithium(Li), sodium(Na), potassium(K)... these
+ elements all have 1 electron in their outermost shell. Beryllium and the other elements in 
+ group 2 have two electrons in their outermost shell. Group three elements have 3 elements in 
+ their outermost shell. So the group number is equal to the valences of the elements in that group
+ You get the idea, i suppose. But what of group 0, do they also have 0 electrons their outermost shell?
+ No, they don't. This is the exception. All the group 0 elements have eight electrons in their
+ outermost shell except helium which has two electrons. Group 0 elements are called the noble or rare 
+ gases.
+ Between groups 2 and 3 are 10 groups of elements called the Transition Metals. These elements have
+ d-orbitals that is partially filled.
+
+ periods.
+ Elements are placed in periods according to the number of electron shells they have.
+ The periods are the horizontal row of elements in the Periodic table.
+ The periods are numbered 1 - 7.
+ Period 1 contain two elements : hydrogen(H) and helium(He)
+ periods 2 contains eight elements: Li, Be, B, C, N, O, F, Ne.
+ period 3 contains eight elements: Na, Mg, Al, Si, P, S, Cl, Ar.
+ periods 4 and 5 contain eighteen elements each.
+ periods 6 and 7 contain 32 elements each but only eighteen are included in the rows for proper 
+ space management. The rest are cut out and placed at the bottom of the periodic table.They are 
+ the lanthanide series and actinide series. They look as if they are not part of the 
+ periodic table, the are actually in periods 6 and 7.
+
+ Other terms associated with the periodic table.
+ The groups and periods are the main way of classifying elements in the periodic tables but
+ but that is not the only way. We can also classify elements as 
+ 1. Alkali Metals
+ 2. Alkaline Earth  Metals
+ 3. The Halogens
+ 4. The Noble gases or Rare gases or inert elements.
+
+ 5. The Transition Metals
+ 6. The lanthanides
+ 7. The Actinides
+ 8. The Artificial elements.
+ 9. The Metals
+ 10. The Non-Metals.
+ 11. The Metalloid.
+ 12. The blocks
+
+ 1. Alkali Metals.
+ These are elements in group 1. They are referred to as a family because they behave alike chemically.
+ They include such elements as sodium and potassium.
+ They have one valence electron and hence univalent.They donate 
+ this electron with ease making them a good reducing agent. 
+ They react with cold water rapidly liberating hydrogen gas and forming alkali. 
+ This is how they got their names.
+
+ 2. Alkaline Earth Metals.
+ These are the elements in group 2 of the period table.
+ They include such elements as calcium and magnesium. Each of their atoms have two 
+ valence electrons hence they are divalent. They are reducing in nature being electron
+ donors.They form electrovalent compounds.
+ Ca ---> Ca2+ + 2e-
+ Mg ---> Mg2+ + 2e-
+
+ 3. The Halogens.
+ The Halogens are the elements in group 7. They rarely exist as free elements
+ in nature because they are very reactive. They are the most reactive non-metals known.
+ Each of their atoms have 7 valence electrons which is the attribute responsible
+ for their similarities in chemical properties. They ionize to form univalent anion which racts 
+ with metals to form electrovalent compounds.
+
+ 4. The Noble gases or Rare gases or inert elements.
+ These are the group 0 elements. They include helium, neon, argon, krypton, xenon and radon.
+ They have zero electron ready for bounding in their outermost shell, hence the group is named 
+ group 0. Due to this lack of bonding electrons, they are nonreactive and exist freely as 
+ monoatomic molecules in the atmosphere.
+
+  5. The Transition Metals
+  These family of elements are located between groups 2 and 3 of the periodic table.
+  They all have partially filled d-orbital which is responsible for most of their chemical
+  properties. They are all metals and possess typical metallic properties such as 
+  high tensile strength and high melting points. Their valences are usually varaiable and they 
+  can form complex and coloured ions.
+
+   6. The lanthanides
+   These elements are located in the sixth period beginning with lanthanum(La), and ending
+   with lutetium(Lu). They are a set of fifteen rare elements.
+
+   7. The Actinides
+   They are placed in the seventh period beginning with actinium(Ac) and end with Law..(Lr)
+   This family includes the element uranium which is used in nuclear reactions
+
+    8. The Artificial elements.
+    These are the elements which come after uranium in the periodic table.
+    They are not natural occurring. They were discovered as products formed during 
+    nuclear reactions. They not stable. They include plutonium(Pu) and curium(Cm) 
+ 9. The Metals
+ Metals are located to the left of the diagonal line traversing the periodic table
+ at  the far right. Examples include silver, gold, zinc, copper, tin, mercury.
+ Metals forms ions by electron lose. across a period from right to left, the metallic properties
+ of elements increases while down a group - from to to bottom, the metallic characters increases.
+ Metals are shiny, excellent conductors of heat and electricity, malleable and ductile.
+
+
+10. The Non-Metals.
+ Metals are located to the right of the diagonal line traversing the periodic table
+ at  the far right. Examples include nitrogen, oxygen, fluorine, chlorine.
+ Non-metals usually ionize by electron gain. Non-metals are poor conductors of heat and 
+ electricity. They are brittle.
+
+  11. The Metalloid.
+  Metals are located on the diagonal line traversing the periodic table
+ at  the far right. Examples include boron and silicon. They are mainly semi-conductors.
+ Their properties are intermediates between those of metals and non-metals.
+
+ 12. The blocks
+ Elements in the periodic table can also be classified into blocks:
+ The s-block, p-block, d-block and the f-block.
+ s-block
+ The groups 1 and 2 elements make up the s-block.
+ They have their outermost electrons in the s orbitals.
+
+p-blocks
+Groups 3-7 and 0 form the p-block
+d-block
+The Transition Metals form the d-block
+f-block
+The lanthanides and actinides  between groups 2 and 3 
+and in period 6 form the f-block.
+
+
+
+
+
+
+
